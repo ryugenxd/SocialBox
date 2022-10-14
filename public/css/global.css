@@ -1,0 +1,11 @@
+:root{
+  --bg:url('http://localhost:8080/app/assets/img/saturnus.jpeg');
+}
+.swal2-container .swal2-modal {
+       background: rgba(255,255,255,0.8);
+       color:black;
+       font-family:Courier;
+       font-weight:600;
+       font-size:13px;
+       box-shadow:2px 2px 1px 1px black;
+}
